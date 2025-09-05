@@ -44,11 +44,11 @@ li a{
 }
 /* container-1 */
 .headimg{
-    width: 200px;
-    height: auto;
+    width: 270px;
+    height: 300px;
     margin-top: 50px;
 }
 .headimg img{
     width: 100%;
-    height: auto;
+    height: 100%;
 }
