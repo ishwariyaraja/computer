@@ -55,7 +55,6 @@ li a{
     flex-wrap: wrap;
     background-color:#F5F7FA ;
     padding: 50px;
-
 }
 .hedaer{
     margin-top: 80px;
@@ -96,4 +95,76 @@ li a{
 .headimg img{
     width: 100%;
     height: 100%;
+}
+/* 2 */
+.container-2{
+ display: flex;
+ flex-direction: column;
+ padding: 20px;
+}
+.one{
+   text-align: center;
+   margin: 30px;
+   text-wrap: wrap;
+   font-size: 20px;
+}
+.one h2{
+    color: #4D4D4D;
+    font-size:40px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 20px;
+}
+.three{
+    text-align: center;
+    text-wrap: wrap;
+    margin: 30px;
+    font-size: 20px;
+}
+.three h2{
+    color: #4D4D4D;
+    font-size: 40px;
+}
+/* 3 */
+.four{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.contect-1{ 
+   
+    text-align: center;
+    text-wrap:wrap;
+    padding: 20px;
+}
+.icn{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; */
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+}
+.icn img{
+    width: 100%;
+    height: 100%;
+}
+.hed h2,p{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     padding: 10px;
+}
+.hed h2{
+    color: #4D4D4D;
+    font-size: 30px;
+}
+.hed p{
+    color: black;
+    font-size: 18px;
 }
