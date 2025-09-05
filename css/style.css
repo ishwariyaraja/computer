@@ -48,3 +48,40 @@ li a{
 .bars{
     display: none;
 }
+/* container-1 */
+.container-1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 70px;
+}
+.hedaer h1{
+    font-size: 55px;
+    font-weight: bolder;
+    color:#4D4D4D ;
+    line-height: 1.3;
+}
+.hedaer h2{
+    font-size: 55px;
+    font-weight: bolder;
+    color:#4CAF4F ;
+    line-height: 1.3;
+
+}
+.hedaer p{
+    color: black;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+.regis-link{
+    margin-top:50px;
+}
+.regis-link a{
+ text-decoration: none;
+ color: black;
+ font-size: 20px;
+ padding: 10px 20px;
+ background-color: #4CAF4F;
+ border-radius: 5px;
+}
