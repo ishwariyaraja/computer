@@ -35,7 +35,8 @@ margin-right: 100px;
 .bars{
     display:block;
     position: absolute;
-    top: 25;
+    top: 25px;
     right:10px;
+    font-size: 20px;
 }
 }
