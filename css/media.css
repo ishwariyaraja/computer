@@ -2,6 +2,8 @@
 
 nav{
     flex-direction: column;
+    padding: 25px 25px;
+
 }
 .logo1{
   margin-right:200px;
@@ -13,11 +15,13 @@ nav{
 li a{
     display: none;
 }
+.angerbtn {
+    display: flex; 
+}
 .login a{
    text-decoration: none;
    color:green;
    font-size: 15px;
-   margin-left: 200px;
 }
 .sinup a{
   
@@ -29,5 +33,5 @@ li a{
     display:block;
     position: absolute;
     top: 0;
-    right: 0;
+    right:10px;
 }
