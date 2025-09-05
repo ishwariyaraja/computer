@@ -44,9 +44,16 @@ li a{
 }
 /* container-1 */
 .headimg{
-    width: 270px;
-    height: 300px;
+    width: 280px;
+    height: 400px;
     margin-top: 50px;
+}
+.hedaer h1{
+   font-size: 30px;
+
+}
+.hedaer h2{
+    font-size: 55px;
 }
 .headimg img{
     width: 100%;
