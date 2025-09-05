@@ -54,7 +54,11 @@ li a{
     justify-content: space-between;
     flex-wrap: wrap;
     background-color:#F5F7FA ;
+    padding: 50px;
 
+}
+.hedaer{
+    margin-top: 80px;
 }
 .hedaer h1{
     font-size: 55px;
@@ -67,7 +71,6 @@ li a{
     font-weight: bolder;
     color:#4CAF4F ;
     line-height: 1.3;
-
 }
 .hedaer p{
     color: black;
@@ -85,4 +88,12 @@ li a{
  padding: 10px 20px;
  background-color: #4CAF4F;
  border-radius: 5px;
+}
+.headimg{
+    width: 450px;
+    height: auto;
+}
+.headimg img{
+    width: 100%;
+    height: 100%;
 }
