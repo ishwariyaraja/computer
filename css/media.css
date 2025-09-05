@@ -1,0 +1,16 @@
+@media screen and (max-width:670px){
+
+nav{
+    flex-direction: column;
+}
+.logo1{
+  margin-right:200px;
+  width: 100px;
+}
+.logo1 img{
+    width: 100%;
+}
+li a{
+    display: none;
+}
+}
