@@ -42,3 +42,13 @@ li a{
     display: block;
 }
 }
+/* container-1 */
+.headimg{
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
+}
+.headimg img{
+    width: 100%;
+    height: auto;
+}
