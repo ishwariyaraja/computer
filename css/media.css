@@ -22,7 +22,7 @@ li a{
    text-decoration: none;
    color:green;
    font-size: 15px;
-margin-right: 100px;
+   display: none;
 
 }
 .sinup a{
@@ -30,13 +30,13 @@ margin-right: 100px;
    font-size: 15px;
    border-radius: 10px;
    padding: 10px 15px;
-   margin-right: 150px;
+   display: none;
 }
 .bars{
     display:block;
     position: absolute;
     top: 25px;
-    right:10px;
-    font-size: 20px;
+    right:15px;
+    font-size: 25px;
 }
 }
